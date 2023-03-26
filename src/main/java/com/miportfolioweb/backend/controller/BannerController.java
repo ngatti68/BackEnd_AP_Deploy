@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/banner")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://ng-portfolioweb-ap.web.app/")
 public class BannerController {
 
     @Autowired
