@@ -15,7 +15,7 @@ import java.util.Objects;
 
 @RestController
 @RequestMapping("/habilidad")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://ng-portfolioweb-ap.web.app")
 public class HabilidadController {
 
     @Autowired
