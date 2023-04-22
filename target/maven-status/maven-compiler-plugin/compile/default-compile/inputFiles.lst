@@ -20,7 +20,6 @@ C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\m
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\controller\BannerController.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\service\RolService.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\controller\PersonaController.java
-C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\WebConfig.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\service\EducacionService.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\repository\HabilidadRepository.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\DTO\Mensaje.java
@@ -35,6 +34,7 @@ C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\m
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\repository\EducacionRepository.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\entity\Usuario.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\BackendRestJwtApplication.java
+C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\CORSConfig.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\repository\BannerRepository.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\DTO\ExperienciaDTO.java
 C:\Portfolio Web Argentina Programa Deploy\backend-AP-deploy\src\main\java\com\miportfolioweb\backend\entity\Experiencia.java
